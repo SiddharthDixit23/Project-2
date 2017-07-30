@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/paras/.android/build-cache/d6037223472111607cf351a1bc6a699e4ee32260/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

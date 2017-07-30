@@ -1,0 +1,536 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.github.yesidlazaro:GmailBackground:1.2.0] /home/paras/.android/build-cache/e3da6d6426ae1e01b1258342d4158cdc6797be1a/output/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /home/paras/.android/build-cache/ee48a4e80fbfb33225b45a17320c94eca64d73d4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.0] /home/paras/.android/build-cache/61cb5d5c6d23d42c9e973922a736bfb4106e6b64/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] /home/paras/.android/build-cache/a9ec05e857cf5b8233654b7376b6bc0b2b2df9a0/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /home/paras/.android/build-cache/a88c2e2111e061962404c3ab9f3a2c6d58132511/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/paras/.android/build-cache/cb9f742635728b6cdadb4ec3e7cb277e10f99991/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /home/paras/.android/build-cache/13036eba49dc93b83f25081e0a251978fb038ad6/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/paras/.android/build-cache/e0d59c3802542784a8682d3a25d51a9b15d9e4be/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.github.yesidlazaro:GmailBackground:1.2.0] /home/paras/.android/build-cache/e3da6d6426ae1e01b1258342d4158cdc6797be1a/output/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /home/paras/.android/build-cache/ee48a4e80fbfb33225b45a17320c94eca64d73d4/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] /home/paras/.android/build-cache/2bbf2d4235a6249ab159d923e7f9c13c33c859fe/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/paras/.android/build-cache/cb9f742635728b6cdadb4ec3e7cb277e10f99991/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /home/paras/.android/build-cache/13036eba49dc93b83f25081e0a251978fb038ad6/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/paras/.android/build-cache/e0d59c3802542784a8682d3a25d51a9b15d9e4be/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:11:22-76
+application
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:13:5-69:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/paras/.android/build-cache/2802550b1d9f5fdbf1a021db21be05ad625bfdbb/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/paras/.android/build-cache/b762620e165386300c857f4f149c5dd9fed8a527/output/AndroidManifest.xml:26:5-20
+MERGED from [com.github.yesidlazaro:GmailBackground:1.2.0] /home/paras/.android/build-cache/e3da6d6426ae1e01b1258342d4158cdc6797be1a/output/AndroidManifest.xml:14:5-18:19
+MERGED from [com.google.android.gms:play-services:11.0.0] /home/paras/.android/build-cache/6afc943331c0abcb90bc7983a92f16a062f84d9c/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /home/paras/.android/build-cache/ee48a4e80fbfb33225b45a17320c94eca64d73d4/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.0] /home/paras/.android/build-cache/bde521d585db36e2285f0b6f5617e4138a0a0e66/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/paras/.android/build-cache/ea647018c6c58a4a8e1315722fb28d5770b12b91/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/paras/.android/build-cache/eb4b075eca72c1441d8ed455903863d4c45fd9bf/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /home/paras/.android/build-cache/44805f69dbd791081e9982e6fb50ba628e33d9f0/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /home/paras/.android/build-cache/6efecb079e8dbe34b09a2b5b56bfbdef00256605/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.0] /home/paras/.android/build-cache/9d0ddc08e54f844a43fd858219d176bd67204f50/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.0] /home/paras/.android/build-cache/96f9e439a2b2cd961b64a9ec1fd19caed3aa0a35/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.0] /home/paras/.android/build-cache/61cb5d5c6d23d42c9e973922a736bfb4106e6b64/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /home/paras/.android/build-cache/a19839cabf92344cfbc0ccac908ec4a9cc4c603b/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.0] /home/paras/.android/build-cache/e46c082832bb0670d96131ab12b6c882fe81f7a5/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.0] /home/paras/.android/build-cache/1d5435f3ae347aad3011419e68ef5665fe7ef088/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.0] /home/paras/.android/build-cache/b2787ed90a3e590d21d970060c16a60d72c23661/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.0] /home/paras/.android/build-cache/0b231fb9ffc0539bb4bd23827fd5ebb00daaa6db/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /home/paras/.android/build-cache/3f04536d5a20e2bf85b9f32601cbc658e1a69de0/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] /home/paras/.android/build-cache/a9ec05e857cf5b8233654b7376b6bc0b2b2df9a0/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.0] /home/paras/.android/build-cache/34fa06954a7f9de4ff6d60eb5865b29a5f1b1171/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /home/paras/.android/build-cache/a88c2e2111e061962404c3ab9f3a2c6d58132511/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] /home/paras/.android/build-cache/2bbf2d4235a6249ab159d923e7f9c13c33c859fe/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.0] /home/paras/.android/build-cache/8ae42c5a2c3b8e7f66da73e2f0c72320e0e0833e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /home/paras/.android/build-cache/d6037223472111607cf351a1bc6a699e4ee32260/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.0] /home/paras/.android/build-cache/a911f1ca9b7243d66dd51599d631ad934334b6b6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /home/paras/.android/build-cache/6dde7230e81dd838c2209ae5904f6bc2f460c6ac/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/paras/.android/build-cache/cb9f742635728b6cdadb4ec3e7cb277e10f99991/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] /home/paras/.android/build-cache/0bb7ac20a2dcfdfd4e166ecf51b480fde6ed0002/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] /home/paras/.android/build-cache/42ca09164972fb342bb1eb233900c7dcf88bf1dc/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /home/paras/.android/build-cache/13036eba49dc93b83f25081e0a251978fb038ad6/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.0] /home/paras/.android/build-cache/b2d95239c59f6f4b7eef07a72e8436e7ec81de9a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.0] /home/paras/.android/build-cache/3f44096a8dbc2c0c3821e97dedde26847312a462/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.0] /home/paras/.android/build-cache/1ceffc0f481228ad5ee01cb8af365e5e244fbd2c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/paras/.android/build-cache/e0d59c3802542784a8682d3a25d51a9b15d9e4be/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.0] /home/paras/.android/build-cache/9a7545a2ac07b38ee006fe92ba7efbf9d80c6249/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] /home/paras/.android/build-cache/56e141dcc4f6fb8f269a4445c0e762d31722dfb6/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /home/paras/.android/build-cache/5e836c9b78d670796f95c8baa783d39a02a72cd5/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/paras/.android/build-cache/43130bf12f217c06afc2746f1728dea034e8b565/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/paras/.android/build-cache/d1da04857076907bc85a30919b1ffe7042289b6d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/paras/.android/build-cache/7c871a35596c76edb8f54df5ac3e18722fefd181/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/paras/.android/build-cache/1b7dff97bb3324ee00eb813a199894f3dcae1cc0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/paras/.android/build-cache/78a1ea92620957705eb2af0d605b88ce7fb01833/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/paras/.android/build-cache/e91b0058b00eb115ebe4fcd5fe90979b1652e4f0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/paras/.android/build-cache/84dd7ce3b4272a5bee85d052534526f25150b08c/output/AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:19:9-45
+	android:label
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:17:9-60
+	android:allowBackup
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:15:9-49
+	android:theme
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.developers.droidteam.merisafety.SaveMeActivity
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:21:9-23:15
+	android:screenOrientation
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:21:19-49
+activity#com.developers.droidteam.merisafety.SplashScreenActivity
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:24:9-33:23
+	android:screenOrientation
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:26:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:31:27-74
+receiver#com.developers.droidteam.merisafety.SmsNotifications
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:35:9-40:20
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:35:19-51
+intent-filter#in.wptrafficanalyzer.delivered+in.wptrafficanalyzer.sent
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:36:13-39:29
+action#in.wptrafficanalyzer.sent
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:37:25-65
+action#in.wptrafficanalyzer.delivered
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:38:17-73
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:38:25-70
+activity#com.developers.droidteam.merisafety.MainActivity
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:42:9-45:15
+	android:screenOrientation
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:42:19-47
+activity#com.developers.droidteam.merisafety.NavigationDrawerActivity
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:46:9-50:59
+	android:screenOrientation
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:48:13-49
+	android:theme
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:49:13-53
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:60:9-62:56
+	android:value
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:62:13-53
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:61:13-58
+activity#com.developers.droidteam.merisafety.MapsActivity
+ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:64:9-68:20
+	android:screenOrientation
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml:66:13-41
+uses-sdk
+INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/paras/.android/build-cache/2802550b1d9f5fdbf1a021db21be05ad625bfdbb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/paras/.android/build-cache/a79b330879933aa771f6abd9d59f4a8d58402c46/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/paras/.android/build-cache/b762620e165386300c857f4f149c5dd9fed8a527/output/AndroidManifest.xml:20:5-44
+MERGED from [com.github.yesidlazaro:GmailBackground:1.2.0] /home/paras/.android/build-cache/e3da6d6426ae1e01b1258342d4158cdc6797be1a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:11.0.0] /home/paras/.android/build-cache/6afc943331c0abcb90bc7983a92f16a062f84d9c/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] /home/paras/.android/build-cache/d727c303e464f06c6bb16ba75be53104918fbd85/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /home/paras/.android/build-cache/ee48a4e80fbfb33225b45a17320c94eca64d73d4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.0] /home/paras/.android/build-cache/781a55fb017763c1d4dbaba10d37d84074e3b99c/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.0] /home/paras/.android/build-cache/e1c89db237ceccc63a893808e2c8cef428d2d4eb/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.0] /home/paras/.android/build-cache/bde521d585db36e2285f0b6f5617e4138a0a0e66/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/paras/.android/build-cache/ea647018c6c58a4a8e1315722fb28d5770b12b91/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/paras/.android/build-cache/eb4b075eca72c1441d8ed455903863d4c45fd9bf/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] /home/paras/.android/build-cache/44805f69dbd791081e9982e6fb50ba628e33d9f0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /home/paras/.android/build-cache/6efecb079e8dbe34b09a2b5b56bfbdef00256605/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.0] /home/paras/.android/build-cache/9d0ddc08e54f844a43fd858219d176bd67204f50/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.0] /home/paras/.android/build-cache/96f9e439a2b2cd961b64a9ec1fd19caed3aa0a35/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.0] /home/paras/.android/build-cache/61cb5d5c6d23d42c9e973922a736bfb4106e6b64/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /home/paras/.android/build-cache/a19839cabf92344cfbc0ccac908ec4a9cc4c603b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.0] /home/paras/.android/build-cache/3309c4b232a48d630875eb6787b8fd664a7a0589/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] /home/paras/.android/build-cache/ae5e6d0289758c51c7bd00a3201fc0801b151444/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.0] /home/paras/.android/build-cache/e46c082832bb0670d96131ab12b6c882fe81f7a5/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.0] /home/paras/.android/build-cache/9a41300d7618a3c55a1cd8071eddf6f2c764dec4/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] /home/paras/.android/build-cache/8719b20d88e12e9ee9b5c0e3d1034a57a5c885ec/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.0] /home/paras/.android/build-cache/1d5435f3ae347aad3011419e68ef5665fe7ef088/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.0] /home/paras/.android/build-cache/b2787ed90a3e590d21d970060c16a60d72c23661/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.0] /home/paras/.android/build-cache/0b231fb9ffc0539bb4bd23827fd5ebb00daaa6db/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /home/paras/.android/build-cache/3f04536d5a20e2bf85b9f32601cbc658e1a69de0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] /home/paras/.android/build-cache/a9ec05e857cf5b8233654b7376b6bc0b2b2df9a0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.0] /home/paras/.android/build-cache/34fa06954a7f9de4ff6d60eb5865b29a5f1b1171/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /home/paras/.android/build-cache/a88c2e2111e061962404c3ab9f3a2c6d58132511/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.0] /home/paras/.android/build-cache/bd5376fc801055e5b00e89de17807395ddcc086e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] /home/paras/.android/build-cache/2bbf2d4235a6249ab159d923e7f9c13c33c859fe/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.0] /home/paras/.android/build-cache/8ae42c5a2c3b8e7f66da73e2f0c72320e0e0833e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /home/paras/.android/build-cache/d6037223472111607cf351a1bc6a699e4ee32260/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.0] /home/paras/.android/build-cache/a911f1ca9b7243d66dd51599d631ad934334b6b6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /home/paras/.android/build-cache/6dde7230e81dd838c2209ae5904f6bc2f460c6ac/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.0] /home/paras/.android/build-cache/5ab4ab3d8bf85aac0c4d611ef314ec77a8799e72/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/paras/.android/build-cache/cb9f742635728b6cdadb4ec3e7cb277e10f99991/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] /home/paras/.android/build-cache/0bb7ac20a2dcfdfd4e166ecf51b480fde6ed0002/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] /home/paras/.android/build-cache/42ca09164972fb342bb1eb233900c7dcf88bf1dc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /home/paras/.android/build-cache/13036eba49dc93b83f25081e0a251978fb038ad6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.0] /home/paras/.android/build-cache/b2d95239c59f6f4b7eef07a72e8436e7ec81de9a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.0] /home/paras/.android/build-cache/3f44096a8dbc2c0c3821e97dedde26847312a462/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.0] /home/paras/.android/build-cache/91b972567604c10b4bd6b0d0ca8b335d535088cb/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.0] /home/paras/.android/build-cache/1ceffc0f481228ad5ee01cb8af365e5e244fbd2c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/paras/.android/build-cache/e0d59c3802542784a8682d3a25d51a9b15d9e4be/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.0] /home/paras/.android/build-cache/9a7545a2ac07b38ee006fe92ba7efbf9d80c6249/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.0] /home/paras/.android/build-cache/56e141dcc4f6fb8f269a4445c0e762d31722dfb6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /home/paras/.android/build-cache/5e836c9b78d670796f95c8baa783d39a02a72cd5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/paras/.android/build-cache/43130bf12f217c06afc2746f1728dea034e8b565/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/paras/.android/build-cache/d1da04857076907bc85a30919b1ffe7042289b6d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/paras/.android/build-cache/7c871a35596c76edb8f54df5ac3e18722fefd181/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/paras/.android/build-cache/1b7dff97bb3324ee00eb813a199894f3dcae1cc0/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/paras/.android/build-cache/78a1ea92620957705eb2af0d605b88ce7fb01833/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/paras/.android/build-cache/e91b0058b00eb115ebe4fcd5fe90979b1652e4f0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/paras/.android/build-cache/84dd7ce3b4272a5bee85d052534526f25150b08c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+		INJECTED from /home/paras/AndroidStudioProjects/MeriSafety/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/paras/.android/build-cache/a79b330879933aa771f6abd9d59f4a8d58402c46/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/paras/.android/build-cache/b762620e165386300c857f4f149c5dd9fed8a527/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/paras/.android/build-cache/ea647018c6c58a4a8e1315722fb28d5770b12b91/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/paras/.android/build-cache/eb4b075eca72c1441d8ed455903863d4c45fd9bf/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/paras/.android/build-cache/d1da04857076907bc85a30919b1ffe7042289b6d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/paras/.android/build-cache/7c871a35596c76edb8f54df5ac3e18722fefd181/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/paras/.android/build-cache/1b7dff97bb3324ee00eb813a199894f3dcae1cc0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/paras/.android/build-cache/78a1ea92620957705eb2af0d605b88ce7fb01833/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/paras/.android/build-cache/e91b0058b00eb115ebe4fcd5fe90979b1652e4f0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/paras/.android/build-cache/84dd7ce3b4272a5bee85d052534526f25150b08c/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /home/paras/.android/build-cache/664688099dc79114f4060f2528d1e36ce59b1767/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.0] /home/paras/.android/build-cache/ee48a4e80fbfb33225b45a17320c94eca64d73d4/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/paras/.android/build-cache/cb9f742635728b6cdadb4ec3e7cb277e10f99991/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /home/paras/.android/build-cache/13036eba49dc93b83f25081e0a251978fb038ad6/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.0] /home/paras/.android/build-cache/ee48a4e80fbfb33225b45a17320c94eca64d73d4/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /home/paras/.android/build-cache/740597092c71bff637903aa89aa28187f5aba71e/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /home/paras/.android/build-cache/2490a0324f954d8781f04f82277a161bdacdd2b6/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /home/paras/.android/build-cache/7975fa9331f8a22d60816411d8e72df205d31ea9/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.0] /home/paras/.android/build-cache/a9ec05e857cf5b8233654b7376b6bc0b2b2df9a0/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /home/paras/.android/build-cache/a88c2e2111e061962404c3ab9f3a2c6d58132511/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.0] /home/paras/.android/build-cache/a9ec05e857cf5b8233654b7376b6bc0b2b2df9a0/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /home/paras/.android/build-cache/84275c9a37c4504ae34fa3459e6385cacff0c396/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/paras/.android/build-cache/cb9f742635728b6cdadb4ec3e7cb277e10f99991/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/paras/.android/build-cache/cb9f742635728b6cdadb4ec3e7cb277e10f99991/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/paras/.android/build-cache/6b9cf2b281ee00281e6cb0fb33a55cd5f8a4a158/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/paras/.android/build-cache/af1619695be1fac62a6a28795ca29cf9fd59c97a/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] /home/paras/.android/build-cache/0bb7ac20a2dcfdfd4e166ecf51b480fde6ed0002/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/paras/.android/build-cache/0bb7ac20a2dcfdfd4e166ecf51b480fde6ed0002/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/paras/.android/build-cache/0bb7ac20a2dcfdfd4e166ecf51b480fde6ed0002/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/paras/.android/build-cache/0bb7ac20a2dcfdfd4e166ecf51b480fde6ed0002/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/paras/.android/build-cache/0bb7ac20a2dcfdfd4e166ecf51b480fde6ed0002/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.0] /home/paras/.android/build-cache/e0d59c3802542784a8682d3a25d51a9b15d9e4be/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] /home/paras/.android/build-cache/e0d59c3802542784a8682d3a25d51a9b15d9e4be/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] /home/paras/.android/build-cache/e0d59c3802542784a8682d3a25d51a9b15d9e4be/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] /home/paras/.android/build-cache/43130bf12f217c06afc2746f1728dea034e8b565/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /home/paras/.android/build-cache/43130bf12f217c06afc2746f1728dea034e8b565/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /home/paras/.android/build-cache/43130bf12f217c06afc2746f1728dea034e8b565/output/AndroidManifest.xml:20:20-65

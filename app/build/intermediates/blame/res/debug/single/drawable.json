@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/contact_us_icon.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/contact_us_icon.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/buttons_background.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/buttons_background.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/p4.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/p4.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_explore_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_explore_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_thumb_up_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_thumb_up_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_settings_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_group_black_24dp.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_group_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_location_on_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_location_on_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/p5.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/p5.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/pri.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/pri.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/p2.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/p2.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_group_expand.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_details_black_24dp.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_details_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/button.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/email.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/email.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_menu_manage.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_menu_share.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_local_hospital_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_local_hospital_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/girl.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/girl.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/home.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/buttonb.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/buttonb.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/pri1.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/pri1.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_menu_gallery.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/settings_green_icon.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/settings_green_icon.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/feedback_icon.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/feedback_icon.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/sun1.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/sun1.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/safety_launcher.jpeg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/safety_launcher.jpeg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/sid.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/sid.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/acc.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/acc.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/par.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/par.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/nearby_icon.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/nearby_icon.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_security_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_security_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/trigger.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/trigger.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/audiorecweb.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/audiorecweb.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/extended_buttons_background.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/extended_buttons_background.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/boy.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/boy.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/p3.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/p3.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/round_safety_launcher.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/round_safety_launcher.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/more.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/more.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_feedback_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_feedback_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_question_answer_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_question_answer_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/edittextcustomized.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/edittextcustomized.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/rid.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/rid.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/settings_icon.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/settings_icon.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/homebl.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/homebl.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/splash_background.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/myrect.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/myrect.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/settings_revamped.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/settings_revamped.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/round_button.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_menu_camera.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/paras/.android/build-cache/1a7a1b8364f67af189b636b8236a6479ac7fbfa9/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_videocam_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_videocam_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/sid1.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/sid1.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_menu_slideshow.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_contact_mail_black_48dp.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_contact_mail_black_48dp.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/p1.jpg",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/p1.jpg"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/audio.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/audio.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/ic_menu_send.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abhi.JPG",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/drawable/abhi.JPG"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/paras/.android/build-cache/7608c7514ada61bb3039bc4457d20dbc81bba7d3/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
+        "source": "/home/paras/.android/build-cache/5463c720a2295f2db809615aed1ef8c34a4ccdbe/output/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/paras/.android/build-cache/bde521d585db36e2285f0b6f5617e4138a0a0e66/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/paras/.android/build-cache/2b8bac4c8b6d18a9996207f36d4bb9d499efc867/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    }
+]

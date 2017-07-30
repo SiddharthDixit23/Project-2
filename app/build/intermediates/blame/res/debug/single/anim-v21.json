@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/paras/.android/build-cache/c8ec0edc11761c39bfb1c49da3f69ccb3a365781/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

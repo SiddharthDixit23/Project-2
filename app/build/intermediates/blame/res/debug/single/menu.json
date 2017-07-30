@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/menu/navigation_drawer.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/menu/navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/menu/activity_navigation_drawer_drawer.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/menu/activity_navigation_drawer_drawer.xml"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/menu/bottom_menu.xml",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/menu/bottom_menu.xml"
+    }
+]

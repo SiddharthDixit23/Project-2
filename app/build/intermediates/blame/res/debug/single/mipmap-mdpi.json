@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/paras/AndroidStudioProjects/MeriSafety/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_video.png",
+        "source": "/home/paras/AndroidStudioProjects/MeriSafety/app/src/main/res/mipmap-mdpi/ic_launcher_video.png"
+    }
+]
